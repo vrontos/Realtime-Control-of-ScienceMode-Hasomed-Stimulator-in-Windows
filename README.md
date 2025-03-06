@@ -1,4 +1,4 @@
-# 🛠️ Installation Guide for Stimulator P24 Science
+# Installation Guide for Realtime Control of ScienceMode Hasomed Stimulator in Windows
 
 Follow these clear steps to properly install **Python**, **PyUSB**, and the necessary **Stimulator Driver** on your Windows PC.
 
